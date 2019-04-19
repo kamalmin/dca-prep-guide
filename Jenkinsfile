@@ -1,10 +1,7 @@
-pipeline
-{
-  stages
-    {
-      stage 
-        {
+pipeline {
+   stages {
+       stage {
           echo "hai"
-          }
-          }
-          }
+       }
+    }
+  }
