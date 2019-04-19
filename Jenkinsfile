@@ -5,6 +5,9 @@ pipeline {
           steps {
                echo 'hai'
           }
+          steps{
+             echo 'step 2'
+          }
        }
     }
   }
